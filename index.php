@@ -8,5 +8,6 @@
 <body>
     This is the file on main branch!
     this line is added on branch1!
+    this line is added on branch2!
 </body>
 </html>
